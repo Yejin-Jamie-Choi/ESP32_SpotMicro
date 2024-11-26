@@ -1,12 +1,21 @@
-# ESP32_SpotMicro
+## ESP32_SpotMicro
+
 123
 
-# Special Thanks
+## Special Thanks
+
 345
 
-# Preface
+## Preface
+
 
 678
 
-# Electronics
-91011
+## Electronics
+
+### - 3D Printing
+
+### - Electronics
+|No.|Module|Number|Price(￦)|
+|---|---|---|---|
+|1|ESP-WROOM-32|x1|5,790|
